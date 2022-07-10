@@ -1,0 +1,20 @@
+p{
+	font-size: 20px;
+	color: red;
+}
+.eee.zzz.ccc{
+	font-size: 30px;
+	color: greenyellow;
+}
+.bbb.zzz{
+	color: blue;
+}
+h2.bbb.zzz{
+	color: orange;
+}
+#elem.aaa{
+	color: yellow;
+}
+h2#elem.aaa{
+	color: darkcyan;
+}

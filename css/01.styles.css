@@ -1,0 +1,32 @@
+h2.zzz {
+	color: red;
+}
+h2 .zzz{
+	color: green;
+}
+.aaa.sss{
+	color: aqua;
+	font-family: Arial;
+}
+.aaa .sss{
+	color: darkgreen;
+	font-family: Arial;
+}
+.aaa.sss.ddd{
+	color: orange;
+	font-family: Arial;
+}
+.aaa .sss.ddd{
+	color: yellow;
+	font-family: Arial;
+}
+.aaa .sss .ddd{
+	color: darkred;
+}
+#elem.qqq{
+	color: dimgray;
+	font-size: 30px;
+}
+#elem .qqq{
+	color: darkorange;
+}
